@@ -1,0 +1,1 @@
+Dicetop does not gather any data, nor does it share any data. The only data the app stores is stored locally on your device, and is exclusively data about stored rolls which can be deleted in the app or by deleting the app.
